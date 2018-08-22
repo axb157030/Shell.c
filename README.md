@@ -13,3 +13,10 @@ cd [directory]: It changes directories like the Linux cd command does. Be aware 
 
 The shell has some built in error detection like when the user types in invalid executables and commands or the shell fails to change
 to another different directory
+
+# Prerequisites
+This program can only run on Linux. I ran program in Linux that was installed into a virtual machine.
+
+# Running
+Type: "gcc mysh.c -o main" to compile the file. Do not include the quotatation marks. "main" in the command could be any name you want but it is the name of the file you will execute. Type "./main without the quotation marks to execute. After this command you can then list the files or Linux commands to execute. 
+
