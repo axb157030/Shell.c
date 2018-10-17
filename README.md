@@ -1,5 +1,5 @@
 # Shell.c
-simple shell in C that can execute executables, commands, pipelined commands, and specific built-in functions like history,
+Shell in C that can execute executables, commands, pipelined commands, and specific built-in functions like history,
 changing directories, exiting the shell, executing a past commands.
 The built-ins it can follow include:
 exit: It exits the shell
